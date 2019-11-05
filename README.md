@@ -1,2 +1,2 @@
-# python-concurrency-
+# python-concurrency
 Concurrency in Python
