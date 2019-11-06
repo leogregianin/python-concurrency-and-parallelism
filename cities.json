@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "name": "Cuiabá"
+    }, 
+	{
+      "id": 2,
+      "name": "São Paulo"
+    }, 
+	{
+      "id": 3,
+      "name": "Rio de Janeiro"
+    }, 
+	{
+      "id": 4,
+      "name": "Brasília"
+    }, 
+	{
+      "id": 5,
+      "name": "Buenos Aires"
+    }, 
+	{
+      "id": 6,
+      "name": "Santiago"
+    }, 
+	{
+      "id": 7,
+      "name": "Fairbanks"
+    }, 
+	{
+      "id": 8,
+      "name": "Lima"
+    }, 
+	{
+      "id": 9,
+      "name": "La Paz"
+    }, 
+	{
+      "id": 10,
+      "name": "Dubai"
+    }, 
+	{
+      "id": 11,
+      "name": "Quito"
+    }, 
+	{
+      "id": 12,
+      "name": "Caracas"
+    }, 
+	{
+      "id": 13,
+      "name": "Bogotá"
+    }, 
+	{
+      "id": 14,
+      "name": "Rondonópolis"
+    }, 
+	{
+      "id": 15,
+      "name": "New York"
+    }, 
+	{
+      "id": 16,
+      "name": "Miami"
+    }, 
+	{
+      "id": 17,
+      "name": "Chicago"
+    }, 
+	{
+      "id": 18,
+      "name": "Los Angeles"
+    }, 
+	{
+      "id": 19,
+      "name": "San Diego"
+    }, 
+	{
+      "id": 20,
+      "name": "Las Vegas"
+    }, 
+	{
+      "id": 21,
+      "name": "Toronto"
+    }, 
+	{
+      "id": 22,
+      "name": "Montreal"
+    }, 
+	{
+      "id": 23,
+      "name": "Vancouver"
+    }, 	
+	{
+      "id": 24,
+      "name": "Halifax"
+    }, 
+	{
+      "id": 25,
+      "name": "London"
+    }, 	
+	{
+      "id": 26,
+      "name": "Paris"
+	  },
+	{
+      "id": 27,
+      "name": "Campo Grande"
+    },
+  {
+      "id": 28,
+      "name": "Curitiba"
+    },
+  {
+      "id": 29,
+      "name": "Florianópolis"
+    },
+  {
+      "id": 30,
+      "name": "Porto Alegre"
+    }
+]
