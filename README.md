@@ -1,15 +1,11 @@
 # python-concurrency
 Concurrency and parallelism in Python
 
-    Concurrency is about dealing with lots of things at once. Parallelism is about doing lots of things at once. 
--- Rob Pike, co-inventor da linguagem Go - Concurrency is not Parallelism (it's better)
+> Concurrency is about dealing with lots of things at once. Parallelism is about doing lots of things at once. **-- Rob Pike, co-inventor da linguagem Go - Concurrency is not Parallelism (it's better)**
 
-    - Ao preparar vários pratos ao mesmo tempo o cozinheiro está trabalhando de forma concorrente, porque normalmente ele só cuida de um prato por vez, mas vários estão sendo preparados ao mesmo tempo. 
-
-    - Por outro lado, um fogão de 6 bocas permite aquecer 6 panelas em paralelo. 
-
-    - Ou seja, o cozinheiro trabalha em modo concorrente e o fogão em modo paralelo.
--- [Garoa Hacker Clube](https://garoa.net.br/wiki/Python_Concorrente)
+>Ao preparar vários pratos ao mesmo tempo o cozinheiro está trabalhando de forma concorrente, porque normalmente ele só cuida de um prato por vez, mas vários estão sendo preparados ao mesmo tempo. 
+> Por outro lado, um fogão de 6 bocas permite aquecer 6 panelas em paralelo. 
+> Ou seja, o cozinheiro trabalha em modo concorrente e o fogão em modo paralelo. **-- [Garoa Hacker Clube](https://garoa.net.br/wiki/Python_Concorrente)**
 
 # Install packages
 
