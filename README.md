@@ -16,19 +16,22 @@ Concurrency and parallelism in Python
 
 # Benchmarks
 
-Benchmark name                       | (1)        | (2)        | (3)        | (4)
--------------------------------------|-----------:|-----------:|-----------:|-----------:
-synchronous (sync.py)                | 17.366073  | 17.226306  | 15.457684  | 15.195825  
-thread with 5 workers (thread.py)    |  3.248359  |  2.758202  |  1.843235  |  1.813232
-thread with 50 workers (thread.py)   |  0.625699  |  0.756632  |  0.573231  |  0.587740
-parallelism (multiprocess.py)        |  3.607703  |  3.317795  |  2.845974  |  2.705426 
-asynchronous coroutines (async.py)   |  0.586605  |  0.609510  |  0.571612  |  0.579693
+Benchmark name                       | (1)       | (2)       | (3)       | (4)       | (5)       | (6)
+-------------------------------------|----------:|----------:|----------:|----------:|----------:|----------:
+synchronous (sync.py)                | 17.36607  | 17.22630  | 15.45768  | 15.19582  |  5.01565  |  4.41665
+thread with 5 workers (thread.py)    |  3.24835  |  2.75820  |  1.84323  |  1.81323  |  0.50936  |  0.51072
+thread with 50 workers (thread.py)   |  0.62569  |  0.75663  |  0.57323  |  0.58774  |  0.29404  |  0.25039
+parallelism (multiprocess.py)        |  3.60770  |  3.31779  |  2.84597  |  2.70542  |  0.37044  |  0.36182
+asynchronous coroutines (async.py)   |  0.58660  |  0.60951  |  0.57161  |  0.57969  |  0.27758  |  0.23457
 
  * Time in seconds
- * (1) with Python 3.6.5
- * (2) with Python 3.6.5
- * (3) with Python 3.8.0
- * (4) with Python 3.8.0
+ * (1) with Python 3.6.5 (win32)
+ * (2) with Python 3.6.5 (win32)
+ * (3) with Python 3.8.0 (win32)
+ * (4) with Python 3.8.0 (win32)
+ * (5) with Python 3.7.4 (linux gcc 8.3.0)
+ * (6) with Python 3.7.4 (linux gcc 8.3.0)
+
 
 # References
 
