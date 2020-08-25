@@ -9,9 +9,14 @@ Concurrency and parallelism in Python
 
 # Install packages
 
+    * pipenv install
+
+    or
+
     * requests
     * asyncio
     * aiohttp
+    * httpx
 
 
 # Benchmarks
@@ -23,6 +28,7 @@ thread with 5 workers (thread.py)    |  3.24835  |  2.75820  |  1.84323  |  1.81
 thread with 50 workers (thread.py)   |  0.62569  |  0.75663  |  0.57323  |  0.58774  |  0.29404  |  0.25039
 parallelism (multiprocess.py)        |  3.60770  |  3.31779  |  2.84597  |  2.70542  |  0.37044  |  0.36182
 asynchronous coroutines (async.py)   |  0.58660  |  0.60951  |  0.57161  |  0.57969  |  0.27758  |  0.23457
+
 
  * Time in seconds
  * (1) with Python 3.6.5 (win32)
