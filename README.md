@@ -1,4 +1,4 @@
-# python-concurrency
+# python-concurrency-and-parallelism
 Concurrency and parallelism in Python
 
 > Concurrency is about dealing with lots of things at once. Parallelism is about doing lots of things at once. **-- Rob Pike, co-inventor da linguagem Go - Concurrency is not Parallelism (it's better)**
